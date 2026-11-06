@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<precious_metals type="vykup" generated="2026-11-06T06:16:07.326142+00:00">
-<metal name="gold">
-<weight unit="g" value="1">2 717</weight>
-<weight unit="g" value="1.244">3 379</weight>
-<weight unit="g" value="1.555">4 224</weight>
-<weight unit="g" value="2">5 433</weight>
-<weight unit="g" value="3.11">8 448</weight>
-<weight unit="g" value="5">13 583</weight>
-<weight unit="g" value="6.22">16 897</weight>
-<weight unit="g" value="7.78">21 135</weight>
-<weight unit="g" value="10">27 165</weight>
-<weight unit="g" value="15.552">42 248</weight>
-<weight unit="g" value="20">54 331</weight>
-<weight unit="g" value="31.1035">84 494</weight>
-<weight unit="g" value="50">135 827</weight>
-<weight unit="g" value="100">271 653</weight>
-<weight unit="g" value="250">679 133</weight>
-<weight unit="g" value="500">1 358 267</weight>
-<weight unit="g" value="777.5875">2 112 342</weight>
-<weight unit="g" value="1000">2 716 533</weight>
-<weight unit="g" value="3110.35">8 449 370</weight>
-<weight unit="g" value="15551.75">42 246 848</weight>
-</metal>
+<precious_metals type="vykup" generated="2026-11-06T06:31:26.628529+00:00">
 <metal name="silver">
 <weight unit="g" value="1">31</weight>
 <weight unit="g" value="1.244">38</weight>
@@ -29,63 +7,85 @@
 <weight unit="g" value="2">61</weight>
 <weight unit="g" value="3.11">95</weight>
 <weight unit="g" value="5">153</weight>
-<weight unit="g" value="6.22">190</weight>
+<weight unit="g" value="6.22">191</weight>
 <weight unit="g" value="7.78">238</weight>
 <weight unit="g" value="10">306</weight>
 <weight unit="g" value="15.552">476</weight>
-<weight unit="g" value="20">612</weight>
-<weight unit="g" value="31.1035">951</weight>
-<weight unit="g" value="50">1 529</weight>
-<weight unit="g" value="100">3 058</weight>
-<weight unit="g" value="250">7 644</weight>
-<weight unit="g" value="500">15 288</weight>
-<weight unit="g" value="777.5875">23 775</weight>
-<weight unit="g" value="1000">30 575</weight>
-<weight unit="g" value="3110.35">95 100</weight>
-<weight unit="g" value="15551.75">475 499</weight>
+<weight unit="g" value="20">613</weight>
+<weight unit="g" value="31.1035">953</weight>
+<weight unit="g" value="50">1 532</weight>
+<weight unit="g" value="100">3 063</weight>
+<weight unit="g" value="250">7 658</weight>
+<weight unit="g" value="500">15 316</weight>
+<weight unit="g" value="777.5875">23 820</weight>
+<weight unit="g" value="1000">30 633</weight>
+<weight unit="g" value="3110.35">95 278</weight>
+<weight unit="g" value="15551.75">476 391</weight>
 </metal>
-<metal name="platinum">
-<weight unit="g" value="1">950</weight>
-<weight unit="g" value="1.244">1 182</weight>
-<weight unit="g" value="1.555">1 477</weight>
-<weight unit="g" value="2">1 900</weight>
-<weight unit="g" value="3.11">2 954</weight>
-<weight unit="g" value="5">4 750</weight>
-<weight unit="g" value="6.22">5 909</weight>
-<weight unit="g" value="7.78">7 391</weight>
-<weight unit="g" value="10">9 500</weight>
-<weight unit="g" value="15.552">14 774</weight>
-<weight unit="g" value="20">19 000</weight>
-<weight unit="g" value="31.1035">29 548</weight>
-<weight unit="g" value="50">47 500</weight>
-<weight unit="g" value="100">95 000</weight>
-<weight unit="g" value="250">237 499</weight>
-<weight unit="g" value="500">474 998</weight>
-<weight unit="g" value="777.5875">738 705</weight>
-<weight unit="g" value="1000">949 996</weight>
-<weight unit="g" value="3110.35">2 954 819</weight>
-<weight unit="g" value="15551.75">14 774 096</weight>
+<metal name="gold">
+<weight unit="g" value="1">2 718</weight>
+<weight unit="g" value="1.244">3 382</weight>
+<weight unit="g" value="1.555">4 227</weight>
+<weight unit="g" value="2">5 437</weight>
+<weight unit="g" value="3.11">8 454</weight>
+<weight unit="g" value="5">13 591</weight>
+<weight unit="g" value="6.22">16 908</weight>
+<weight unit="g" value="7.78">21 148</weight>
+<weight unit="g" value="10">27 183</weight>
+<weight unit="g" value="15.552">42 274</weight>
+<weight unit="g" value="20">54 365</weight>
+<weight unit="g" value="31.1035">84 548</weight>
+<weight unit="g" value="50">135 913</weight>
+<weight unit="g" value="100">271 826</weight>
+<weight unit="g" value="250">679 566</weight>
+<weight unit="g" value="500">1 359 132</weight>
+<weight unit="g" value="777.5875">2 113 689</weight>
+<weight unit="g" value="1000">2 718 265</weight>
+<weight unit="g" value="3110.35">8 454 755</weight>
+<weight unit="g" value="15551.75">42 273 776</weight>
 </metal>
 <metal name="palladium">
-<weight unit="g" value="1">629</weight>
+<weight unit="g" value="1">630</weight>
 <weight unit="g" value="1.244">783</weight>
-<weight unit="g" value="1.555">978</weight>
-<weight unit="g" value="2">1 258</weight>
-<weight unit="g" value="3.11">1 956</weight>
-<weight unit="g" value="5">3 145</weight>
-<weight unit="g" value="6.22">3 913</weight>
-<weight unit="g" value="7.78">4 894</weight>
-<weight unit="g" value="10">6 291</weight>
-<weight unit="g" value="15.552">9 784</weight>
-<weight unit="g" value="20">12 582</weight>
-<weight unit="g" value="31.1035">19 567</weight>
-<weight unit="g" value="50">31 455</weight>
-<weight unit="g" value="100">62 909</weight>
-<weight unit="g" value="250">157 273</weight>
-<weight unit="g" value="500">314 545</weight>
-<weight unit="g" value="777.5875">489 173</weight>
-<weight unit="g" value="1000">629 090</weight>
-<weight unit="g" value="3110.35">1 956 690</weight>
-<weight unit="g" value="15551.75">9 783 451</weight>
+<weight unit="g" value="1.555">979</weight>
+<weight unit="g" value="2">1 260</weight>
+<weight unit="g" value="3.11">1 959</weight>
+<weight unit="g" value="5">3 149</weight>
+<weight unit="g" value="6.22">3 917</weight>
+<weight unit="g" value="7.78">4 900</weight>
+<weight unit="g" value="10">6 298</weight>
+<weight unit="g" value="15.552">9 795</weight>
+<weight unit="g" value="20">12 596</weight>
+<weight unit="g" value="31.1035">19 589</weight>
+<weight unit="g" value="50">31 491</weight>
+<weight unit="g" value="100">62 981</weight>
+<weight unit="g" value="250">157 454</weight>
+<weight unit="g" value="500">314 907</weight>
+<weight unit="g" value="777.5875">489 736</weight>
+<weight unit="g" value="1000">629 814</weight>
+<weight unit="g" value="3110.35">1 958 943</weight>
+<weight unit="g" value="15551.75">9 794 715</weight>
+</metal>
+<metal name="platinum">
+<weight unit="g" value="1">951</weight>
+<weight unit="g" value="1.244">1 183</weight>
+<weight unit="g" value="1.555">1 479</weight>
+<weight unit="g" value="2">1 902</weight>
+<weight unit="g" value="3.11">2 958</weight>
+<weight unit="g" value="5">4 755</weight>
+<weight unit="g" value="6.22">5 915</weight>
+<weight unit="g" value="7.78">7 399</weight>
+<weight unit="g" value="10">9 510</weight>
+<weight unit="g" value="15.552">14 790</weight>
+<weight unit="g" value="20">19 020</weight>
+<weight unit="g" value="31.1035">29 579</weight>
+<weight unit="g" value="50">47 549</weight>
+<weight unit="g" value="100">95 099</weight>
+<weight unit="g" value="250">237 746</weight>
+<weight unit="g" value="500">475 493</weight>
+<weight unit="g" value="777.5875">739 474</weight>
+<weight unit="g" value="1000">950 985</weight>
+<weight unit="g" value="3110.35">2 957 897</weight>
+<weight unit="g" value="15551.75">14 789 486</weight>
 </metal>
 </precious_metals>
